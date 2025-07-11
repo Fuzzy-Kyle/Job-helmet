@@ -1,0 +1,1 @@
+// Copy the auth middleware from the auth-middleware artifact
